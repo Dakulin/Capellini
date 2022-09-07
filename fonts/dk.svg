@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="17px" viewBox="0 0 23 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>DK</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="23" height="16.4285714" rx="2"></rect>
+    </defs>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.0.0.0_Extra-Large_Nav_Global_v2_C" transform="translate(-835.000000, -427.000000)">
+            <g id="DK" transform="translate(835.000000, 427.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="22.5" height="15.9285714" rx="2"></rect>
+                <path d="M6.57142857,0 L6.57142857,6.57142857 L0,6.57142857 L0,1.99804092 C0,0.89455339 0.901627257,0 2.00086422,0 L6.57142857,0 Z M9.85714286,0 L20.9991358,0 C22.1041826,0 23,0.89493823 23,1.99804092 L23,6.57142857 L9.85714286,6.57142857 L9.85714286,0 Z M23,9.85714286 L23,14.4305305 C23,15.534018 22.0983727,16.4285714 20.9991358,16.4285714 L9.85714286,16.4285714 L9.85714286,9.85714286 L23,9.85714286 Z M6.57142857,16.4285714 L2.00086422,16.4285714 C0.895817426,16.4285714 0,15.5336332 0,14.4305305 L0,9.85714286 L6.57142857,9.85714286 L6.57142857,16.4285714 Z" id="Combined-Shape" fill="#EF264D" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
